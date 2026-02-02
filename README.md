@@ -1,2 +1,0 @@
-# Kavach
-Discord Bot 
